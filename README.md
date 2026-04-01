@@ -1,8 +1,28 @@
 # CompuWork-Gestion-RRHH
 Sistema de Gesión CompuWork
 
-Proyecto elaborado utilizando Programación Orientada a Objetos, donde se gestionan empleados, reportes de desempeño y departamentos.
+Sistema en Java para gestionar empleados, departamentos y generar reportes de desempeño.
 
-El sistema permite administrar de forma integral el ciclo de vida de los colaboradores, estructurar la jerarquía organizacional mediante departamentos y analizar la productividad a través de reportes detallados, todo bajo una arquitectura escalable y segura.
+Funcionalidades
 
-En el proyecto se utilizó como lenguaje de programación Java.
+- Crear, actualizar y eliminar empleados
+- Asignar empleados a departamentos
+- Reporte individual y por departamento
+
+Tecnologías
+- Java
+- Swing
+- Maven
+- JUnit
+
+Ejecución
+Se ejecuta desde:
+PantallaPrincipal.java
+
+ Pruebas
+Se realizaron pruebas unitarias con JUnit para validar:
+
+- Creación de empleados
+- Agregar empleados a un departamento
+- Actualización de datos
+- Eliminación de empleados
